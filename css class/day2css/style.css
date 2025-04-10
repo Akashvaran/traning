@@ -1,0 +1,53 @@
+/* pseudo elements selector */
+p::before {
+    content: "hello";
+}
+
+p::after {
+    content: "welcome";
+}
+
+/* descendant selector */
+
+/* div p {
+    color: chocolate;
+} */
+
+/* child selector  */
+/* div > p {
+    color: green;
+} */
+
+/* Adjacent and sibling selector */
+   /* h1 + p {
+        color: green;
+    } */
+
+    /* general sibling  selector */
+
+    /* h1 ~ p {
+        color: green;
+    } */
+
+/* 
+    * {
+        padding: 0;
+        margin: 0;
+    }
+    
+    .para {
+        margin: 30px 20px 10px 10px;
+        margin: 20px 30px;
+        border: 5px solid red;
+        padding: 20px 60px 20px 10px;
+
+    } */
+
+    /* body {
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1sdRp9gCgxmipbFtQvWGaPQ2lK_htUA87Aw&s");
+        background-repeat: no-repeat;
+       background-size: cover; 
+        background-attachment: fixed; 
+        background-position: center;
+        
+    } */

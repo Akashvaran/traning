@@ -1,0 +1,79 @@
+/* .para1 {
+    border: 10px solid green;
+    padding: 30px 40px;
+    width: 300px;/*300+20+80 =400px 
+
+}
+.para2 {
+    border: 10px dotted green;
+    padding: 30px 40px;
+    width: 300px;/*300+20+80 =400px 
+    box-sizing: border-box;
+
+} */
+
+
+/* .para1 {
+    /* color: red; */
+    /* color: rgb(200, 220, 150); 0 to 255 */
+    /*color: rgba(200, 100, 200, 0.5);  0 1 */
+    /* color: rgb(0, 38, 255); */
+    /* color: #a6a695; 
+
+} */
+
+/* p {
+    text-align: center;
+    background-color: aqua;
+}
+h1 {
+    text-align: left;
+    background-color: blue;
+}
+h3 {
+    text-align: right;
+    background-color: chocolate;
+} */
+
+/* ul li {
+    list-style-type: none;
+}
+
+ul li a {
+    text-decoration: none;
+    list-style-type: none;
+} */
+
+/* p {
+    text-decoration-line: overline;
+    text-decoration-line: underline overline;
+} */
+
+/* p {
+    color: blue;
+}
+p {
+    color: red;
+} */
+
+/* p {
+    text-transform: initial;
+} */
+
+/* p {
+    letter-spacing: 20px;
+    letter-spacing: -2px;
+    word-spacing: 30px;
+} */
+/* p {
+    line-height: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+} */
+
+.para1 {
+    border: 20px solid green;
+    padding: 40px 30px;
+    width: 300px; 
+    box-sizing: border-box;
+
+} 
